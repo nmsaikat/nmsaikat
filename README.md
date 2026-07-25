@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-<h3>I’m currently working on Web Development Projects</h3>
-<h4>I believe programming is a journey of continuous learning. Every new technology I learn helps me build better, cleaner, and more scalable web applications.</h4>
+<h3>🚀 Building Modern Web Applications</h3>
+
+<p>
+I believe programming is a journey of continuous learning. Every new technology I learn helps me build better, cleaner, and more scalable web applications.
+</p>
 
 #### Frontend Development
 
@@ -78,15 +81,3 @@
 [![Apache](https://img.shields.io/badge/-Apache-D42029?style=for-the-badge&labelColor=black&logo=apache&logoColor=D42029)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#)
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=nmsaikat&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nmsaikat&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmsaikat&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nmsaikat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-<!--[![](https://visitcount.itsvg.in/api?id=nmsaikat&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
