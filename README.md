@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development Projects
 
-## 🎨 Frontend Development
+#### Frontend Development
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
@@ -16,9 +16,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
-[![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&labelColor=black&logo=alpinedotjs&logoColor=8BC0D0)](#)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
-[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8DD6F9)](#)
 
 ---
 
