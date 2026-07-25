@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-<h3>🚀 Building Modern Web Applications</h3>
+<h3>Building Modern Web Applications</h3>
 
 <p>
 I believe programming is a journey of continuous learning. Every new technology I learn helps me build better, cleaner, and more scalable web applications.
