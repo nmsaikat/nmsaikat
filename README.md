@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### I’m currently working on Web Development Projects
- <h5>I believe programming is a journey of continuous learning. Every new technology I learn helps me build better, cleaner, and more scalable web applications.</h5>
+<h2>I’m currently working on Web Development Projects</h2>
+<h4>I believe programming is a journey of continuous learning. Every new technology I learn helps me build better, cleaner, and more scalable web applications.</h4>
 
 #### Frontend Development
 
