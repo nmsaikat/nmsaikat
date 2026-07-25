@@ -12,8 +12,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 <img src="https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-<!-- Page Builders -->
+  
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 <img src="https://img.shields.io/badge/Elementor_Pro-5E17EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Divi-7C3AED?style=for-the-badge" />
