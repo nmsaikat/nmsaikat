@@ -76,6 +76,13 @@
 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+[![REST API](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&labelColor=black)](#)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)](#)
+[![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&labelColor=black&logo=jsonwebtokens&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-FFFFFF?style=for-the-badge&labelColor=black&logo=socketdotio&logoColor=white)](#)
 
 ---
 
@@ -104,6 +111,7 @@
 
 ## 🗄️ Database
 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545)](#)
 [![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=07405E)](#)
