@@ -36,10 +36,7 @@
 <img src="https://img.shields.io/badge/JetTricks-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JetReviews-F97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JetCompareWishlist-E11D48?style=for-the-badge" />
-
-<br><br>
-
-<!-- Plugins -->
+<br>
 <img src="https://img.shields.io/badge/Advanced_Custom_Fields-0055FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Rank_Math-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge&logo=yoast&logoColor=white" />
@@ -58,7 +55,6 @@
 <img src="https://img.shields.io/badge/All_in_One_SEO-4F46E5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Redirection-DC2626?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Really_Simple_SSL-EAB308?style=for-the-badge" />
-
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nmsaikat&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
