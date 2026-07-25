@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Backend Development
+#### Backend Development
 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🖥️ WordPress Ecosystem
+#### WordPress Ecosystem
 
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)](#)
 [![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588A)](#)
@@ -57,7 +57,7 @@
 
 ---
 
-## 🗄️ Database
+#### Database
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
@@ -66,7 +66,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms
+#### Tools & Platforms
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
