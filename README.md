@@ -7,73 +7,67 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) 
 
-
-## 🖥️ WordPress & CMS
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
----
-
-## 🎨 Page Builders
+## 🖥️ WordPress Ecosystem
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor_Pro-5E17EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Divi-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WPBakery-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Beaver_Builder-F79009?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bricks-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Oxygen-1B1B1B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Breakdance-FF4D4D?style=for-the-badge" />
-</p>
 
----
+<!-- Core -->
+<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-## 🚀 Crocoblock Ecosystem
+<br><br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Crocoblock-16C47F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetEngine-16C47F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetSmartFilters-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetFormBuilder-14B8A6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetBooking-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetAppointment-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetPopup-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetMenu-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetElements-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetTabs-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetBlocks-64748B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetTricks-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetReviews-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetCompareWishlist-E11D48?style=for-the-badge" />
-</p>
+<!-- Page Builders -->
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor_Pro-5E17EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Divi-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WPBakery-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Beaver_Builder-F79009?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bricks-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Oxygen-1B1B1B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Breakdance-FF4D4D?style=for-the-badge" />
 
----
+<br><br>
 
-## 🔌 WordPress Plugins
+<!-- Crocoblock -->
+<img src="https://img.shields.io/badge/Crocoblock-16C47F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetEngine-16C47F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetSmartFilters-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetFormBuilder-14B8A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetBooking-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetAppointment-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetPopup-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetMenu-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetElements-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetTabs-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetBlocks-64748B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetTricks-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetReviews-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JetCompareWishlist-E11D48?style=for-the-badge" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Advanced_Custom_Fields-0055FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rank_Math-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge&logo=yoast&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP_Rocket-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wordfence-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Happy_Addons-FF4D8D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Essential_Addons-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unlimited_Elements-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contact_Form_7-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WPForms-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Formidable_Forms-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fluent_Forms-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LiteSpeed_Cache-16A34A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/W3_Total_Cache-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/All_in_One_SEO-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redirection-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Really_Simple_SSL-EAB308?style=for-the-badge" />
+<br><br>
+
+<!-- Plugins -->
+<img src="https://img.shields.io/badge/Advanced_Custom_Fields-0055FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rank_Math-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge&logo=yoast&logoColor=white" />
+<img src="https://img.shields.io/badge/WP_Rocket-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wordfence-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Happy_Addons-FF4D8D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Essential_Addons-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unlimited_Elements-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Advanced_Custom_Fields-0055FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contact_Form_7-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WPForms-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Formidable_Forms-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fluent_Forms-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LiteSpeed_Cache-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/W3_Total_Cache-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/All_in_One_SEO-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redirection-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Really_Simple_SSL-EAB308?style=for-the-badge" />
+
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nmsaikat&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
