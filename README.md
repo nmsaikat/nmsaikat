@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/Oxygen-1B1B1B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Breakdance-FF4D4D?style=for-the-badge" />
 
-<br><br>
-
-<!-- Crocoblock -->
 <img src="https://img.shields.io/badge/Crocoblock-16C47F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JetEngine-16C47F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JetSmartFilters-10B981?style=for-the-badge" />
