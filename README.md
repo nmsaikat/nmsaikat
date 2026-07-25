@@ -72,12 +72,12 @@ I believe programming is a journey of continuous learning. Every new technology 
 
 #### Tools & Platforms
 
+[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 [![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&labelColor=black&logo=composer&logoColor=885630)](#)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#)
 [![Apache](https://img.shields.io/badge/-Apache-D42029?style=for-the-badge&labelColor=black&logo=apache&logoColor=D42029)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#)
