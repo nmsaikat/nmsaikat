@@ -18,6 +18,33 @@
   <img src="https://img.shields.io/badge/WPBakery-1E88E5?style=for-the-badge" />
 </p>
 
+
+## 🖥️ WordPress, CMS & Website Builders
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crocoblock-16C47F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JetEngine-16C47F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JetFormBuilder-16C47F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JetSmartFilters-16C47F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Divi-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WPBakery-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advanced%20Custom%20Fields-5C2D91?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Post%20Types-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Taxonomies-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Theme%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plugin%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gutenberg%20Blocks-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP%20CLI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multisite-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO%20Optimization-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Hardening-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nmsaikat&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nmsaikat&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmsaikat&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
